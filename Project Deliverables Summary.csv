@@ -1,0 +1,6 @@
+File Name,Type,Description
+salifort_motors_dataset.csv,Dataset,"Synthetic Salifort Motors HR dataset (15,000 employees)"
+salifort_motors_complete_analysis.py,Complete Analysis Notebook,Complete Python analysis following PACE methodology
+model_comparison_results.csv,Model Results,Machine learning model performance comparison
+feature_importance.csv,Feature Analysis,Random Forest feature importance rankings
+salifort-executive-summary.pdf,Executive Summary,One-page executive summary for stakeholders
