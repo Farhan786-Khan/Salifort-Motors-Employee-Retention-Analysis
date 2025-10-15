@@ -1,39 +1,26 @@
-# Byte-compiled / optimized / DLL files
+# Data files
+*.csv
+*.xlsx
+*.json
+data/raw/*
+
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
 
-# Data files
-data/raw/
-data/processed/
-*.csv
-*.xlsx
+# Jupyter Notebook
+.ipynb_checkpoints/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Model files
-*.pkl
-*.joblib
-
-# Log files
-*.log
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Secrets and environment variables
+# Environment files
 .env
-
-# Virtual environments
 venv/
 env/
 
-# Reports
-reports/figures/
-*.pdf
+# Mac system files
+.DS_Store
 
-# IDE settings
+# IDE files
 .vscode/
 .idea/
