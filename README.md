@@ -1,4 +1,4 @@
-# 🚗 Salifort Motors Employee Retention Analysis
+# Salifort Motors Employee Retention Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
