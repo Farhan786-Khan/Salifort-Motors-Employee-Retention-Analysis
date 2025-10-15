@@ -9,13 +9,13 @@ A comprehensive machine learning project predicting employee attrition at Salifo
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes employee data from Salifort Motors to identify patterns and predict which employees are likely to leave the company. By understanding the key factors driving employee turnover, the company can take proactive measures to improve retention and reduce recruitment costs.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 **Challenge:** Salifort Motors was experiencing high employee turnover, leading to:
 - Increased recruitment and training costs
@@ -26,7 +26,7 @@ This project analyzes employee data from Salifort Motors to identify patterns an
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 This project follows the **PACE framework**:
 
@@ -37,7 +37,7 @@ This project follows the **PACE framework**:
 
 ---
 
-## 📈 Key Findings
+## Key Findings
 
 ### Model Performance
 - **Algorithm Used:** Random Forest Classifier
